@@ -1,3 +1,4 @@
 this is a new document
 Today is Wednesday
+星期天
 
