@@ -1,3 +1,3 @@
 this is a txt
-Creating a new branch is quick and simple
+Creating a new branch is quick & simple
 
